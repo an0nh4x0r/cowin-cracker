@@ -10,3 +10,4 @@ Get Twilio cellphone number, TWILIO_AUTH_SID, TWILIO_AUTH_TOKEN ... add in the s
 Once vaccine is available you'll the first to get the alert.
 
 Donate me a coffee or pizza if this script helps you in getting vaccinated against corona virus.
+email me at - swappp7singh@gmail.com for donation.
