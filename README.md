@@ -7,7 +7,7 @@ available at that particular hospital.
 
 Create account on Twilio, so that you can recieve free text sms/alerts when vaccine is available near you
 Get Twilio cellphone number, TWILIO_AUTH_SID, TWILIO_AUTH_TOKEN ... add in the script, & enjoy your life, 
-Once vaccine is available you'll the first to get the alert.
+Once vaccine is available you'll be the first to get the alert.
 
 Donate me a coffee or pizza if this script helps you in getting vaccinated against corona virus.
 
