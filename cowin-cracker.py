@@ -5,10 +5,10 @@ from pprint import pprint
 
 import couchdb
 import requests
+from dotenv import load_dotenv
 from fake_useragent import UserAgent
 from retrying import retry
 from twilio.rest import Client
-from dotenv import load_dotenv
 
 # Load the env file
 load_dotenv('.env')
