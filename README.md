@@ -26,4 +26,4 @@ Email me at - swappp7singh@gmail.com for donation.
 # TODO
 
 I'll be building a end to end vaccine appointment service, which won't require users interference, kindly reach out to me if you're
-interested in colaborating.
+interested in any kind of collaboration.
