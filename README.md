@@ -1,5 +1,7 @@
 # cowin-cracker
 
+Please go through the CoWin API's https://apisetu.gov.in/public/api/cowin & help me make this project better.
+
 I made this project, basically out of frustration, I was helplessly checking the cowin portal, 
 This script basically automates that part, so that I don't need to check every now & then.
 This script sends you text message with the hospital name near you & the block name as well as the no. of vaccine's
